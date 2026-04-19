@@ -26,4 +26,4 @@
 
 ---
 
-#### _I plan to build open-source projects in the future. If you're interested in collaborating, feel free to follow me and stay connected!_
+*I plan to build **open-source projects** in the future. If you're interested in **collaborating**, feel free to follow me and stay connected!* 🚀✨
